@@ -1,0 +1,1122 @@
+{
+    "KEBON KELAPA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"GAMBIR",
+        "ward":"KEBON KELAPA",
+        "zipcode":"10120"
+    },
+
+    "GAMBIR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"GAMBIR",
+        "ward":"GAMBIR",
+        "zipcode":"10110"
+    },
+
+    "PETOJO UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"GAMBIR",
+        "ward":"PETOJO UTARA",
+        "zipcode":"10130"
+    },
+
+    "CIDENG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"GAMBIR",
+        "ward":"CIDENG",
+        "zipcode":"10150"
+    },
+
+    "DURI PULO" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"GAMBIR",
+        "ward":"DURI PULO",
+        "zipcode":"10140"
+    },
+
+    "PETOJO SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"GAMBIR",
+        "ward":"PETOJO SELATAN",
+        "zipcode":"10160"
+    },
+
+    "BENDUNGAN HILIR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"TANAH ABANG",
+        "ward":"BENDUNGAN HILIR",
+        "zipcode":"10210"
+    },
+    
+    "KARET TENGSIN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"TANAH ABANG",
+        "ward":"KARET TENGSIN",
+        "zipcode":"10220"
+    },
+
+    "KEBON MELATI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"TANAH ABANG",
+        "ward":"KEBON MELATI",
+        "zipcode":"10230"
+    },
+
+    "KEBON KACANG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"TANAH ABANG",
+        "ward":"KEBON KACANG",
+        "zipcode":"10240"
+    },
+
+    "KAMPUNG BALI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"TANAH ABANG",
+        "ward":"KAMPUNG BALI",
+        "zipcode":"10250"
+    },
+
+    "PETAMBURAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"TANAH ABANG",
+        "ward":"PETAMBURAN",
+        "zipcode":"10260"
+    },
+
+    "GELORA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"TANAH ABANG",
+        "ward":"GELORA",
+        "zipcode":"10270"
+    },
+
+    "MENTENG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"MENTENG",
+        "ward":"MENTENG",
+        "zipcode":"10310"
+    },
+
+    "PEGANGSAAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"MENTENG",
+        "ward":"PEGANGSAAN",
+        "zipcode":"10320"
+    },
+
+    "CIKINI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"MENTENG",
+        "ward":"CIKINI",
+        "zipcode":"10330"
+    },
+
+    "KEBON SIRIH" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"MENTENG",
+        "ward":"KEBON SIRIH",
+        "zipcode":"10340"
+    },
+
+    "GONDANGDIA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"MENTENG",
+        "ward":"GONDANGDIA",
+        "zipcode":"10350"
+    },
+
+    "SENEN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SENEN",
+        "ward":"SENEN",
+        "zipcode":"10410"
+    },
+
+    "KWITANG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SENEN",
+        "ward":"KWITANG",
+        "zipcode":"10420"
+    },
+
+    "KENARI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SENEN",
+        "ward":"KENARI",
+        "zipcode":"10430"
+    },
+
+    "PASEBAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SENEN",
+        "ward":"PASEBAN",
+        "zipcode":"10440"
+    },
+
+    "KRAMAT" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SENEN",
+        "ward":"KRAMAT",
+        "zipcode":"10450"
+    },
+
+    "BUNGUR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SENEN",
+        "ward":"BUNGUR",
+        "zipcode":"10460"
+    },
+
+    "CEMPAKA PUTIH TIMUR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"CEMPAKA PUTIH",
+        "ward":"CEMPAKA PUTIH TIMUR",
+        "zipcode":"10510"
+    },
+
+    "RAWASARI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"CEMPAKA PUTIH",
+        "ward":"RAWASARI",
+        "zipcode":"10570"
+    },
+
+    "CEMPAKA PUTIH BARAT" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"CEMPAKA PUTIH",
+        "ward":"CEMPAKA PUTIH BARAT",
+        "zipcode":"10520"
+    },
+
+    "GALUR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"JOHAR BARU",
+        "ward":"GALUR",
+        "zipcode":"10530"
+    },
+
+    "TANAH TINGGI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"JOHAR BARU",
+        "ward":"TANAH TINGGI",
+        "zipcode":"10540"
+    },
+
+    "KAMPUNG RAWA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"JOHAR BARU",
+        "ward":"KAMPUNG RAWA",
+        "zipcode":"10550"
+    },
+
+    "JOHAR BARU" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"JOHAR BARU",
+        "ward":"JOHAR BARU",
+        "zipcode":"10560"
+    },
+
+    "GUNUNG SAHARI SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"GUNUNG SAHARI SELATAN",
+        "zipcode":"10610"
+    },
+
+    "KEMAYORAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"KEMAYORAN",
+        "zipcode":"10620"
+    },
+
+    "KEBON KOSONG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"KEBON KOSONG",
+        "zipcode":"10630"
+    },
+
+    "HARAPAN MULYA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"HARAPAN MULYA",
+        "zipcode":"10640"
+    },
+
+    "CEMPAKA BARU" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"CEMPAKA BARU",
+        "zipcode":"10640"
+    },
+
+    "SUMUR BATU" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"SUMUR BATU",
+        "zipcode":"10640"
+    },
+
+    "SERDANG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"SERDANG",
+        "zipcode":"10650"
+    },
+
+    "UTAN PANJANG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"KEMAYORAN",
+        "ward":"UTAN PANJANG",
+        "zipcode":"10650"
+    },
+
+    "PASAR BARU" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SAWAH BESAR",
+        "ward":"PASAR BARU",
+        "zipcode":"10710"
+    },
+
+    "GUNUNG SAHARI UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SAWAH BESAR",
+        "ward":"GUNUNG SAHARI UTARA",
+        "zipcode":"10720"
+    },
+
+    "MANGGA DUA SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SAWAH BESAR",
+        "ward":"MANGGA DUA SELATAN",
+        "zipcode":"10730"
+    },
+
+    "KARANG ANYAR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SAWAH BESAR",
+        "ward":"KARANG ANYAR",
+        "zipcode":"10740"
+    },
+
+    "KARTINI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA PUSAT",
+        "district":"SAWAH BESAR",
+        "ward":"KARTINI",
+        "zipcode":"10750"
+    },
+
+    "PINANGSIA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"PINANGSIA",
+        "zipcode":"11110"
+    },
+
+    "GLODOK" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"GLODOK",
+        "zipcode":"11120"
+    },
+
+    "KEAGUNGAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"KEAGUNGAN",
+        "zipcode":"11130"
+    },
+
+    "KRUKUT" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"KRUKUT",
+        "zipcode":"11140"
+    },
+
+    "TAMAN SARI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"TAMAN SARI",
+        "zipcode":"11150"
+    },
+
+    "MAPHAR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"MAPHAR",
+        "zipcode":"11160"
+    },
+
+    "TANGKI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"TANGKI",
+        "zipcode":"11170"
+    },
+
+    "MANGGA BESAR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMAN SARI",
+        "ward":"MANGGA BESAR",
+        "zipcode":"11180"
+    },
+
+    "TANAH SEREAL" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"TANAH SEREAL",
+        "zipcode":"11210"
+    },
+
+    "TAMBORA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"TAMBORA",
+        "zipcode":"11220"
+    },
+
+    "ROA MALAKA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"ROA MALAKA",
+        "zipcode":"11230"
+    },
+
+    "PEKOJAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"PEKOJAN",
+        "zipcode":"11240"
+    },
+
+    "JEMBATAN LIMA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"JEMBATAN LIMA",
+        "zipcode":"11250"
+    },
+
+    "KRENDANG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"KRENDANG",
+        "zipcode":"11260"
+    },
+
+    "DURI SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"DURI SELATAN",
+        "zipcode":"11270"
+    },
+
+    "DURI UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"DURI UTARA",
+        "zipcode":"11270"
+    },
+
+    "JEMBATAN BESI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"JEMBATAN BESI",
+        "zipcode":"11320"
+    },
+
+    "ANGKE" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"TAMBORA",
+        "ward":"ANGKE",
+        "zipcode":"11330"
+    },
+
+    "SLIPI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"PALMERAH",
+        "ward":"SLIPI",
+        "zipcode":"11410"
+    },
+
+    "KOTA BAMBU UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"PALMERAH",
+        "ward":"KOTA BAMBU UTARA",
+        "zipcode":"11420"
+    },
+
+    "KOTA BAMBU SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"PALMERAH",
+        "ward":"KOTA BAMBU SELATAN",
+        "zipcode":"11420"
+    },
+
+    "JATIPULO" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"PALMERAH",
+        "ward":"JATIPULO",
+        "zipcode":"11430"
+    },
+
+    "KEMANGGISAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"PALMERAH",
+        "ward":"KEMANGGISAN",
+        "zipcode":"11480"
+    },
+
+    "PALMERAH" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"PALMERAH",
+        "ward":"PALMERAH",
+        "zipcode":"11480"
+    },
+
+    "TOMANG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"GROGOL PETAMBURAN",
+        "ward":"TOMANG",
+        "zipcode":"11440"
+    },
+
+    "GROGOL" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"GROGOL PETAMBURAN",
+        "ward":"GROGOL",
+        "zipcode":"11450"
+    },
+
+    "JELAMBAR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"GROGOL PETAMBURAN",
+        "ward":"JELAMBAR",
+        "zipcode":"11460"
+    },
+
+    "WIJAYA KUSUMA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"GROGOL PETAMBURAN",
+        "ward":"WIJAYA KUSUMA",
+        "zipcode":"11460"
+    },
+
+    "JELAMBAR BARU" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"GROGOL PETAMBURAN",
+        "ward":"JELAMBAR BARU",
+        "zipcode":"11460"
+    },
+
+    "TANJUNG DUREN SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"GROGOL PETAMBURAN",
+        "ward":"TANJUNG DUREN SELATAN",
+        "zipcode":"11470"
+    },
+
+    "TANJUNG DUREN UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"GROGOL PETAMBURAN",
+        "ward":"TANJUNG DUREN UTARA",
+        "zipcode":"11470"
+    },
+
+    "DURI KEPA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEBON JERUK",
+        "ward":"DURI KEPA",
+        "zipcode":"11510"
+    },
+
+    "KEDOYA SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEBON JERUK",
+        "ward":"KEDOYA SELATAN",
+        "zipcode":"11520"
+    },
+
+    "KEBON JERUK" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEBON JERUK",
+        "ward":"KEBON JERUK",
+        "zipcode":"11530"
+    },
+
+    "SUKABUMI UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEBON JERUK",
+        "ward":"SUKABUMI UTARA",
+        "zipcode":"11540"
+    },
+
+    "KELAPA DUA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEBON JERUK",
+        "ward":"KELAPA DUA",
+        "zipcode":"11550"
+    },
+
+    "SUKABUMI SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEBON JERUK",
+        "ward":"SUKABUMI SELATAN",
+        "zipcode":"11560"
+    },
+
+    "KEMBANGAN SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEMBANGAN",
+        "ward":"KEMBANGAN SELATAN",
+        "zipcode":"11610"
+    },
+
+    "MERUYA UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEMBANGAN",
+        "ward":"MERUYA UTARA",
+        "zipcode":"11620"
+    },
+
+    "SRENGSENG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEMBANGAN",
+        "ward":"SRENGSENG",
+        "zipcode":"11630"
+    },
+
+    "JOGLO" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEMBANGAN",
+        "ward":"JOGLO",
+        "zipcode":"11640"
+    },
+
+    "MERUYA SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KEMBANGAN",
+        "ward":"MERUYA SELATAN",
+        "zipcode":"11650"
+    },
+
+    "KEDAUNG KALI ANGKE" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"CENGKARENG",
+        "ward":"KEDAUNG KALI ANGKE",
+        "zipcode":"11710"
+    },
+
+    "KAPUK" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"CENGKARENG",
+        "ward":"KAPUK",
+        "zipcode":"11720"
+    },
+
+    "CENGKARENG BARAT" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"CENGKARENG",
+        "ward":"CENGKARENG BARAT",
+        "zipcode":"11730"
+    },
+
+    "CENGKARENG TIMUR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"CENGKARENG",
+        "ward":"CENGKARENG TIMUR",
+        "zipcode":"11730"
+    },
+
+    "RAWA BUAYA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"CENGKARENG",
+        "ward":"RAWA BUAYA",
+        "zipcode":"11740"
+    },
+
+    "DURI KOSAMBI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"CENGKARENG",
+        "ward":"DURI KOSAMBI",
+        "zipcode":"11750"
+    },
+
+    "KAMAL" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KALIDERES",
+        "ward":"KAMAL",
+        "zipcode":"11810"
+    },
+
+    "TEGAL ALUR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KALIDERES",
+        "ward":"TEGAL ALUR",
+        "zipcode":"11820"
+    },
+
+    "PEGADUNGAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KALIDERES",
+        "ward":"PEGADUNGAN",
+        "zipcode":"11830"
+    },
+
+    "KALIDERES" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KALIDERES",
+        "ward":"KALIDERES",
+        "zipcode":"11840"
+    },
+
+    "SEMANAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA BARAT",
+        "district":"KALIDERES",
+        "ward":"SEMANAN",
+        "zipcode":"11850"
+    },
+
+    "SELONG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"SELONG",
+        "zipcode":"12110"
+    },
+
+    "GUNUNG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"GUNUNG",
+        "zipcode":"12120"
+    },
+
+    "KRAMAT PELA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"KRAMAT PELA",
+        "zipcode":"12130"
+    },
+
+    "GANDARIA UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"GANDARIA UTARA",
+        "zipcode":"12140"
+    },
+
+    "PULO" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"PULO",
+        "zipcode":"12160"
+    },
+
+    "MELAWAI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"MELAWAI",
+        "zipcode":"12160"
+    },
+
+    "PETOGOGAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"PETOGOGAN",
+        "zipcode":"12170"
+    },
+
+    "RAWA BARAT" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"RAWA BARAT",
+        "zipcode":"12180"
+    },
+
+    "SENAYAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN BARU",
+        "ward":"SENAYAN",
+        "zipcode":"12190"
+    },
+
+    "PONDOK PINANG" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN LAMA",
+        "ward":"PONDOK PINANG",
+        "zipcode":"12310"
+    },
+
+    "GROGOL UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN LAMA",
+        "ward":"GROGOL UTARA",
+        "zipcode":"12210"
+    },
+
+    "GROGOL SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN LAMA",
+        "ward":"GROGOL SELATAN",
+        "zipcode":"12220"
+    },
+
+    "CIPULIR" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN LAMA",
+        "ward":"CIPULIR",
+        "zipcode":"12230"
+    },
+
+    "KEBAYORAN LAMA UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN LAMA",
+        "ward":"KEBAYORAN LAMA UTARA",
+        "zipcode":"12240"
+    },
+
+    "KEBAYORAN LAMA SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"KEBAYORAN LAMA",
+        "ward":"KEBAYORAN LAMA SELATAN",
+        "zipcode":"12240"
+    },
+
+    "PESANGGRAHAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PESANGGRAHAN",
+        "ward":"PESANGGRAHAN",
+        "zipcode":"12320"
+    },
+
+    "BINTARO" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PESANGGRAHAN",
+        "ward":"BINTARO",
+        "zipcode":"12330"
+    },
+
+    "ULUJAMI" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PESANGGRAHAN",
+        "ward":"ULUJAMI",
+        "zipcode":"12250"
+    },
+
+    "PETUKANGAN UTARA" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PESANGGRAHAN",
+        "ward":"PETUKANGAN UTARA",
+        "zipcode":"12260"
+    },
+
+    "PETUKANGAN SELATAN" : {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PESANGGRAHAN",
+        "ward":"PETUKANGAN SELATAN",
+        "zipcode":"12270"
+    },
+
+    "CIPETE SELATAN" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"CILANDAK",
+        "ward":"CIPETE SELATAN",
+        "zipcode":"12310"
+    },
+
+    "GANDARIA SELATAN" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"CILANDAK",
+        "ward":"GANDARIA SELATAN",
+        "zipcode":"12420"
+    },
+
+    "CILANDAK BARAT" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"CILANDAK",
+        "ward":"CILANDAK BARAT",
+        "zipcode":"12430"
+    },
+
+    "lEBAK BULUS" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"CILANDAK",
+        "ward":"LEBAK BULUS",
+        "zipcode":"12440"
+    },
+
+    "PONDOK LABU" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"CILANDAK",
+        "ward":"PONDOK LABU",
+        "zipcode":"12450"
+    },
+
+    "PEJATEN BARAT" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PASAR MINGGU",
+        "ward":"PEJATEN BARAT",
+        "zipcode":"12510"
+    },
+
+    "PEJATEN TIMUR" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PASAR MINGGU",
+        "ward":"PEJATEN TIMUR",
+        "zipcode":"12510"
+    },
+
+    "KEBAGUSAN" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PASAR MINGGU",
+        "ward":"KEBAGUSAN",
+        "zipcode":"12520"
+    },
+
+    "PASAR MINGGU" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PASAR MINGGU",
+        "ward":"PASAR MINGGU",
+        "zipcode":"12520"
+    },
+
+    "JATI PADANG" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PASAR MINGGU",
+        "ward":"JATI PADANG",
+        "zipcode":"12540"
+    },
+
+    "RAGUNAN" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PASAR MINGGU",
+        "ward":"RAGUNAN",
+        "zipcode":"12550"
+    },
+
+    "CILANDAK TIMUR" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"PASAR MINGGU",
+        "ward":"CILANDAK TIMUR",
+        "zipcode":"12560"
+    },
+
+    "TANJUNG BARAT" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"JAGAKARSA",
+        "ward":"TANJUNG BARAT",
+        "zipcode":"12530"
+    },
+
+    "JAGAKARSA" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"JAGAKARSA",
+        "ward":"JAGAKARSA",
+        "zipcode":"12620"
+    },
+
+    "CIGANJUR" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"JAGAKARSA",
+        "ward":"CIGANJUR",
+        "zipcode":"12630"
+    },
+
+    "LENTENG AGUNG" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"JAGAKARSA",
+        "ward":"LENTENG AGUNG",
+        "zipcode":"12630"
+    },
+
+    "CIPEDAK" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"JAGAKARSA",
+        "ward":"CIPEDAK",
+        "zipcode":"12630"
+    },
+
+    "SRENGSENG SAWAH" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"JAGAKARSA",
+        "ward":"SRENGSENG SAWAH",
+        "zipcode":"12640"
+    },
+
+    "KUNINGAN BARAT" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"MAMPANG PRAPATAN",
+        "ward":"KUNINGAN BARAT",
+        "zipcode":"12710"
+    },
+
+    "PELA MAMPANG" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"MAMPANG PRAPATAN",
+        "ward":"PELA MAMPANG",
+        "zipcode":"12720"
+    },
+
+    "BANGKA" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"MAMPANG PRAPATAN",
+        "ward":"BANGKA",
+        "zipcode":"12730"
+    },
+
+    "MAMPANG PRAPATAN" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"MAMPANG PRAPATAN",
+        "ward":"MAMPANG PRAPATAN",
+        "zipcode":"12790"
+    },
+
+    "TEGAL PARANG" :  {
+        "province":"DKI JAKARTA",
+        "city":"KOTA JAKARTA SELATAN",
+        "district":"MAMPANG PRAPATAN",
+        "ward":"TEGAL PARANG",
+        "zipcode":"12790"
+    }
+
+}
